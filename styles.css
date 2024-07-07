@@ -1,0 +1,21 @@
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(236, 188, 65);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 100vh;
+  margin: 0;  
+}
+.container{
+  text-align: center;
+}
+canvas{
+  background-color: rgb(102, 175, 231);
+  display: block;
+  margin: 20px auto;
+}
+#score{
+  font-size: 20 px;
+  color: black;
+}
